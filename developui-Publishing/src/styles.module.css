@@ -1,0 +1,25 @@
+/* add css module styles here (optional) */
+
+.btn{
+  margin: 10px;
+  height: 25px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.primary{
+  background: #0275d8;
+}
+.dashed{
+  border-style: dashed !important; 
+}
+
+.text{
+  border: none !important;
+}
+
+.link{
+  border: none !important;
+  color:#0275d8;
+  text-decoration: none;
+}
